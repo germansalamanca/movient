@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "name": "Inception",
+    "year": 2010,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "2",
+    "name": "Pulp Fiction",
+    "year": 1994,
+    "director": "Quentin Tarantino"
+  },
+  {
+    "id": "3",
+    "name": "The Dark Knight",
+    "year": 2008,
+    "director": "Christopher Nolan"
+  },
+  {
+    "id": "4",
+    "name": "Parasite",
+    "year": 2019,
+    "director": "Bong Joon-ho"
+  }
+]

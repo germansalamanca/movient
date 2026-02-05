@@ -1,12 +1,7 @@
-import styles from './App.module.scss'
+import { TestDataLayer } from './components/TestDataLayer'
 
 function App() {
-  return (
-    <div className={styles.container}>
-      <h1 className={styles.title}>Hello Movient</h1>
-      <p className={styles.subtitle}>Your movie tracking companion</p>
-    </div>
-  )
+  return <TestDataLayer />
 }
 
 export default App
